@@ -1,6 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/renpy,windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=renpy,windows,visualstudiocode
 
+# Folders
+_obj
+_test
+_assets
+Nunito
+Rokkitt
+Source_Sans_Pro
+
 ### Renpy ###
 # Don't track content of these folders #
 ########################################
