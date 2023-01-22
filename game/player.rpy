@@ -11,7 +11,7 @@ define pc = Character("Lois Knightingale", image="")
 init python:
 
     class char:
-        def __init__(self, names, birthday, sign):
+        def __init__(self, names, birthday, sign, likes, dislikes):
             self.names = names
             self.birthday = birthday
             self.sign = sign
@@ -29,12 +29,12 @@ init python:
             self.guild = guild
 
 init:
-    $ Knightingale = adventurer(
+    $ Knightingale = adventurer (
         names="Lois Knightingale",
         birthday="January 21st",
         sign ="Aquarius",
-        likes="",
-        dislikes="",
+        likes="Dungeon delving",
+        dislikes="Responsibility",
         level="1",
         township="1",
         monarchy="0",

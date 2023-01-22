@@ -16,27 +16,62 @@ $ NAME = CLASS(
         guild="0"
     )
 
-| **Name** | **Class** | **Proficient Weapon** | **Deployment Cost** | **Character Skill** | **Skill Cost** | **SP Charge Amount** | **SP Charge Speed** |
-|----------|-----------|-----------------------|---------------------|---------------------|----------------|----------------------|---------------------|
-|          |           |                       |                     |                     |                |                      |                     |
-|          |           |                       |                     |                     |                |                      |                     |
-|          |           |                       |                     |                     |                |                      |                     |
-|          |           |                       |                     |                     |                |                      |                     |
+| Name      | Proficient Weapon | Deployment Cost | Character Skill | Skill Cost | SP Charge Amount |
+|-----------|-------------------|-----------------|-----------------|------------|------------------|
+| Matilda   |                   |                 |                 |            |                  |
+| Milo      |                   |                 |                 |            |                  |
+| Herleigh  |                   |                 |                 |            |                  |
+| Valentina |                   |                 |                 |            |                  |
+| Malachi   |                   |                 |                 |            |                  |
+| Becks     |                   |                 |                 |            |                  |
+| Marinette |                   |                 |                 |            |                  |
+| Taron     |                   |                 |                 |            |                  |
+| Sven      |                   |                 |                 |            |                  |
+| Emiliya   |                   |                 |                 |            |                  |
+| Wati      |                   |                 |                 |            |                  |
+| Juho      |                   |                 |                 |            |                  |
+| Reijo     |                   |                 |                 |            |                  |
+| Maya      |                   |                 |                 |            |                  |
+| Hamilcar  |                   |                 |                 |            |                  |
+| Adelaide  |                   |                 |                 |            |                  |
+| Santi     |                   |                 |                 |            |                  |
 
-| **Name** | **Starting HP** | **Attack Power** | **Block Power** | **Magic Resistance** | **Range** |
-|----------|-----------------|------------------|-----------------|----------------------|-----------|
-|          |                 |                  |                 |                      |           |
-|          |                 |                  |                 |                      |           |
-|          |                 |                  |                 |                      |           |
-|          |                 |                  |                 |                      |           |
+| Name      | Starting HP | Attack Power | Block Power | Magic Resistance | Range |
+|-----------|-------------|--------------|-------------|------------------|-------|
+| Matilda   |             |              |             |                  |       |
+| Milo      |             |              |             |                  |       |
+| Herleigh  |             |              |             |                  |       |
+| Valentina |             |              |             |                  |       |
+| Malachi   |             |              |             |                  |       |
+| Becks     |             |              |             |                  |       |
+| Marinette |             |              |             |                  |       |
+| Taron     |             |              |             |                  |       |
+| Sven      |             |              |             |                  |       |
+| Emiliya   |             |              |             |                  |       |
+| Wati      |             |              |             |                  |       |
+| Juho      |             |              |             |                  |       |
+| Reijo     |             |              |             |                  |       |
+| Maya      |             |              |             |                  |       |
+| Hamilcar  |             |              |             |                  |       |
+| Adelaide  |             |              |             |                  |       |
+| Santi     |             |              |             |                  |       |
 
-1. Sven
-2. Emiliya
-3. Wati
-4. Juho
-5. Tyr
-6. Reijo
-7. Maya
-8. Santi
-9. Hamilcar
-10. Adelaide
+| Name      | Birthday | Sign | Likes | Dislike | Notes |
+|-----------|----------|------|-------|---------|-------|
+| Matilda   |          |      |       |         |       |
+| Milo      |          |      |       |         |       |
+| Herleigh  |          |      |       |         |       |
+| Valentina |          |      |       |         |       |
+| Malachi   |          |      |       |         |       |
+| Becks     |          |      |       |         |       |
+| Marinette |          |      |       |         |       |
+| Taron     |          |      |       |         |       |
+| Sven      |          |      |       |         |       |
+| Emiliya   |          |      |       |         |       |
+| Wati      |          |      |       |         |       |
+| Juho      |          |      |       |         |       |
+| Reijo     |          |      |       |         |       |
+| Maya      |          |      |       |         |       |
+| Hamilcar  |          |      |       |         |       |
+| Adelaide  |          |      |       |         |       |
+| Santi     |          |      |       |         |       |

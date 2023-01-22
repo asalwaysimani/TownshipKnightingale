@@ -1,16 +1,16 @@
 ---
-title: Project Knightingale Township ReadMe
+title: Project Knightingale Township Read Me
 description: "Exactly what it says on the tin"
 ---
 
 ## Key Features
 
 - Town building with various required & optional buildings
-- Upgradable buildings
+  - Upgradable buildings
 - Resoruce gathering
-- Resouce mangement
-- Quest via NPC posting on town message board
-- Quest via NPC visiting tavern
+  - Resouce mangement
+- Quest System via NPC posting on town message board
+- Quest System via NPC visiting tavern
 - Hero collection via heroes visting tavern
 
 ### Town Management
@@ -21,6 +21,7 @@ Information Coming Soon
 
 - Heroes all start at the same base tier
 - Hero rarity tied to town level
+  > The higher level your town the more rare heroes will appear in the tavern.
 
 ### Dungeon Exploration
 
@@ -36,6 +37,7 @@ graph TD
     E1(Hero Team Fails) --> E3(Hero Team Returns) --> B2(NPC Leaves Township) -->B1
     D3 --> E2(Hero Team Succesful) --> |Returns with additional loot| E3 --> R1[Add Building to Town] --> B3(NPC Settles in Township)
 ```
+
 ## Around The Internet
 
 - Follow the development of [Project Knightingale Township](https://open.codecks.io/knightingale-township)

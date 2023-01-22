@@ -74,7 +74,7 @@ Affinity
 
 ### Weapon Skills
 
-1. Sweord
+1. Sword
 2. Axe
 3. Hammer
 4. Mace
