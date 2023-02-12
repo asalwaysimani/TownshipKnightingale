@@ -40,7 +40,6 @@ saves/
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-[Aa]ssets
 [Pp]ackages
 /[Ll]ibrary/
 /[Tt]emp/
@@ -49,6 +48,12 @@ saves/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+[Bb]olt
+[Ll]oot [Tt]able
+[Pp]lugins
+[Ss]toryteller
+[Vv]sCode
+[Ee]ditor [Dd]efault [Rr]esources
 
 *.meta
 *.asset
